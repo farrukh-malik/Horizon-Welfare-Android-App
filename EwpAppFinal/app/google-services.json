@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "801500133677",
+    "firebase_url": "https://ewp-app.firebaseio.com",
+    "project_id": "ewp-app",
+    "storage_bucket": "ewp-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801500133677:android:2f76346d417d3457",
+        "android_client_info": {
+          "package_name": "com.example.farrukhmalik.ewpappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801500133677-59hf937soc284bbrnqadlpp48sgv272u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farrukhmalik.ewpappfinal",
+            "certificate_hash": "21701fe8bfc2fcf9ceca7d02135d4e57066bc391"
+          }
+        },
+        {
+          "client_id": "801500133677-ujhkk0h7bl7rahe1tmem93vmofsgs9j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmrKOzIXneXWfYQ3TnfXyi1fdR1rkwNKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801500133677-ujhkk0h7bl7rahe1tmem93vmofsgs9j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.farrukhmalik.ewpappfinal.main_things.ModulePage">
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="138dp">
+
+        <ImageButton
+            android:layout_width="140dp"
+            android:layout_height="130dp"
+            android:src="@drawable/one"
+            android:background="#ff1"
+            android:id="@+id/courseId"/>
+
+
+        <ImageButton
+            android:layout_marginLeft="8dp"
+            android:layout_width="140dp"
+            android:layout_height="130dp"
+            android:src="@drawable/two"
+            android:background="#aa3"/>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="138dp">
+
+        <ImageButton
+            android:layout_width="140dp"
+            android:layout_height="130dp"
+            android:src="@drawable/three"
+            android:background="#ff12"/>
+
+
+        <ImageButton
+            android:layout_marginLeft="8dp"
+            android:layout_width="140dp"
+            android:layout_height="130dp"
+            android:src="@drawable/four"
+            android:background="#857"/>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="138dp">
+
+        <ImageButton
+            android:layout_width="140dp"
+            android:layout_height="130dp"
+            android:src="@drawable/five"
+            android:background="#f343"/>
+
+
+        <ImageButton
+            android:layout_marginLeft="8dp"
+            android:layout_width="140dp"
+            android:layout_height="130dp"
+            android:src="@drawable/six"
+            android:background="#BB3523"/>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
